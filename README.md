@@ -1,7 +1,9 @@
 #Learn golang
 
-#Use GIT
-http://thachpham.com/tools/cach-tao-repository-cho-git.html
+##Use GIT
++ http://thachpham.com/tools/cach-tao-repository-cho-git.html
++ http://laptrinh.vn/d/4225-cac-lenh-git-co-ban.html
++ http://rogerdudler.github.io/git-guide/index.vi.html
 
 	git clone https://github.com/iotvietmember/golang
 
@@ -20,12 +22,12 @@ http://thachpham.com/tools/cach-tao-repository-cho-git.html
 
 
 
-#Good Document for Go lang
+##Good Document for Go lang
 	https://golang.org/doc/code.html
 	https://gobyexample.com/
 	http://www.golang-book.com
 
-#Start a project
+##Start a project
 * Create a workspace
 
 	$ mkdir $HOME/work
@@ -40,8 +42,7 @@ http://thachpham.com/tools/cach-tao-repository-cho-git.html
 * Code
 
 	Next, create a file named hello.go inside that directory, containing the following Go code. 
-
-package main
+	package main
 
 	import "fmt"
 
